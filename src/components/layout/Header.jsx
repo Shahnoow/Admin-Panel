@@ -9,7 +9,7 @@ const Header = ({ onMenuClick }) => {
         ☰
       </button>
 
-      <img className="h-11 mr-14" src={logo} alt="logo"></img>
+      <img className="h-11 mr-[20%]" src={logo} alt="logo"></img>
 
       <div className="flex items-center space-x-4">
         <div className="relative">
