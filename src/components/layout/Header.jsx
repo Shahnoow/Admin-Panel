@@ -1,4 +1,4 @@
-import logo from "../../assets/logo6.png";
+import logo from "../../assets/logo.png";
 const Header = ({ onMenuClick }) => {
   return (
     <header className="bg-[#59459b] shadow-sm p-4 flex justify-between items-center">
